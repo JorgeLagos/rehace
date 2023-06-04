@@ -534,7 +534,7 @@ jQuery(document).ready(function($) {
     });
     
     $(function(){
-        $('.star-1').raty({ readOnly: true, score: 3 });
+        $('.star-1').raty({ readOnly: true, score: 5 });
     }); 
     $(function(){
         $('.star-0').raty();

@@ -64,7 +64,7 @@ blockquote{
     
 }
 .top{
-    background: #069e87;
+    background: #75d8c0;
 }
 .welcome{
     color: #1c1c1c;
@@ -100,7 +100,7 @@ blockquote{
 }
 .top-support li i{
     font-size:20px;
-    color:#2a2955;
+    color:#079f88;
     margin-right:10px;
 }
 .top-support li i, .top-support li span{
@@ -203,7 +203,7 @@ blockquote{
     background:none;
 }
 #believe-nav .navbar-brand{
-    padding:0 15px;
+    padding:0 10px;
     height:auto;
 }
 .homepage-2 #believe-nav .navbar-brand h1{
@@ -260,7 +260,7 @@ blockquote{
 }
 #believe-nav .navbar-default .navbar-nav>.active>a, #believe-nav .navbar-default .navbar-nav>.active>a:focus, #believe-nav .navbar-default .navbar-nav>.active>a:hover, #believe-nav .navbar-default .navbar-nav a:hover{
     background:none;
-    color:#66cef6;
+    color:#079f88;
 
 }
 .homepage-2 #believe-nav .navbar-default .navbar-nav>.active>a, .homepage-2 #believe-nav .navbar-default .navbar-nav>.active>a:focus, .homepage-2 #believe-nav .navbar-default .navbar-nav>.active>a:hover, .homepage-2 #believe-nav .navbar-default .navbar-nav a:hover{
@@ -370,9 +370,6 @@ blockquote{
     top: 11px;
     left: -6px;
 }
-
-
-
 
 #cat-nav{
     background:#2b2a2f;
@@ -571,7 +568,7 @@ blockquote{
     float:right;
 }
 .slide-offers-left .slide-offers-title span{
-    color:#66cef6 ;
+    color:#75d8c0 ;
 }
 #sect-1 .slide-offers-left .slide-offers-title span, #sect-2 .slide-offers-left .slide-offers-title span{
     color:#fff ;
@@ -579,13 +576,13 @@ blockquote{
     font-weight: 700;
 }
 .slide-offers-right .slide-offers-title span{
-    color:#f666b1 ;
+    color:#75d8c0 ;
 }
 .slider-desc p{
-    color:#dddde0 ;
+    color:#ccccd1 ;
     margin:30px 0 40px;
-    font-size: 18px;
-    font-weight: 400;
+    font-size: 25px;
+    font-weight: 600;
     line-height: normal;
 }
 .slider-desc a.btn{
@@ -1193,6 +1190,7 @@ blockquote{
     border-bottom:1px dashed #d7d7d7;
     padding:40px 0;
     border-top:1px dashed #d7d7d7;
+    padding-bottom: 150px;
 }
 .homepage-2 .brands-inner{
     border-bottom:1px solid #ebedef;
@@ -1327,14 +1325,15 @@ blockquote{
     font-weight: 700;
 }
 .rb-sect-1{
- margin-bottom: 25px;
+    margin-bottom: 25px;
 }
 
 
 
 .page-title{
     background:#f9f9f9 url(images/banner-bg.jpg) top center no-repeat;
-    min-height:113px;
+    /* background-color: #000; */
+    min-height:200px;
 }
 .page-title.type-2{
     background:#f9f9f9 url(images/banner-bg-2.jpg) top center no-repeat;
